@@ -1,2 +1,3 @@
 # PIR-DSP
-This Repository is related to PIR-DSP Idea
+This repository is related to PIR-DSP idea.
+@ FCCM 2019, San Diego, USA
